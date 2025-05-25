@@ -53,4 +53,4 @@ Una vez conectado, las conexiones RDP o SQL adicionales se realizan **internamen
 - Se confirmó el acceso a RDS y al Controlador de Dominio mediante RDP
 - No fue necesario exponer directamente los recursos privados a Internet
 
-Siguiente: [RDS (SQL Server) ➜](rds.md)
+Siguiente: [RDS (SQL Server) ➜](4-rds-es.md)

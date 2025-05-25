@@ -87,4 +87,4 @@ Los Grupos de Seguridad (SG) se asignan a servicios específicos y definen regla
 - Servicios públicos (web) aislados de los internos (BD, DC)
 - Segmentación clara y principio de mínimo privilegio aplicado en todos los componentes
 
-Siguiente: [EC2 + EFS + Load Balancer ➜](ec2-efs-alb.md)
+Siguiente: [EC2 + EFS + Load Balancer ➜](2-ec2-efs-alb-es.md)

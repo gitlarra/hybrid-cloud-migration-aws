@@ -60,4 +60,4 @@ Instead, a **manual migration** was done:
 - Access is restricted via security groups and private networking
 - Availability, durability, and scalability were improved over the on-prem setup
 
-Next: [Windows Server + EBS ➜](windows-ebs.md)
+Next: [Windows Server + EBS ➜](5-ec2_ws-ebs.md)

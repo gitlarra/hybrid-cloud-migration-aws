@@ -76,4 +76,4 @@ La infraestructura on-premises albergaba sitios web estáticos en servidores loc
 - El ALB gestiona el tráfico externo y lo distribuye de forma equilibrada
 - La configuración soporta alta disponibilidad y escalado horizontal
 
-Siguiente: [Bastion Host ➜](bastion-host.md)
+Siguiente: [Bastion Host ➜](3-bastion_host-es.md)

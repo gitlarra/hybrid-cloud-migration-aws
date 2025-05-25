@@ -65,4 +65,4 @@ La configuración original incluía un Controlador de Dominio local con escalabi
 - El rol de Controlador de Dominio fue configurado y está operativo
 - El volumen adicional EBS fue montado y es utilizable como almacenamiento persistente
 
-Siguiente: [S3 (Backups) ➜](s3.md)
+Siguiente: [S3 (Backups) ➜](6-s3-es.md)

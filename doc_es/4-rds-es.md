@@ -60,4 +60,4 @@ En su lugar, se realizó una **migración manual**:
 - El acceso está restringido mediante grupos de seguridad y red privada
 - La disponibilidad, durabilidad y escalabilidad mejoraron respecto al entorno on-premises
 
-Siguiente: [Windows Server + EBS ➜](windows-ebs.md)
+Siguiente: [Windows Server + EBS ➜](5-ec2_ws-ebs-es.md)

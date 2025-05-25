@@ -65,4 +65,4 @@ The original setup included a local Domain Controller with limited scalability a
 - Domain Controller role configured and operational
 - Additional EBS volume mounted and usable as persistent storage
 
-Next: [S3 (Backups) ➜](s3.md)
+Next: [S3 (Backups) ➜](6-S3.md)

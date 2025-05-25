@@ -87,7 +87,7 @@ Security Groups (SGs) are attached to specific services and define traffic rules
 - Public services (web) are isolated from internal services (DB, DC)
 - Clear segmentation and zero-trust principle applied across components
 
-Next: [EC2 + EFS + Load Balancer ➜](ec2-efs-alb.md)
+Next: [EC2 + EFS + Load Balancer ➜](2-ec2-efs-alb.md)
 
 
 ---

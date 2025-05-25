@@ -53,4 +53,4 @@ Once connected, further RDP or SQL connections are made **internally**, from the
 - Access to RDS and Domain Controller was confirmed via RDP
 - No direct public exposure was required for private resources
 
-Next: [RDS (SQL Server) ➜](rds.md)
+Next: [RDS (SQL Server) ➜](4-rds.md)

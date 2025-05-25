@@ -75,4 +75,4 @@ The on-premises infrastructure hosted static websites on local servers. The goal
 - ALB handles external traffic and distributes it evenly
 - Setup supports high availability and horizontal scaling
 
-Next: [Bastion Host ➜](bastion-host.md)
+Next: [Bastion Host ➜](3-bastion_host.md)
